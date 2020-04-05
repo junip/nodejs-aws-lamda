@@ -1,0 +1,20 @@
+{
+  "name": "aws-lamda-testing",
+  "version": "1.0.0",
+  "description": "A sample project to test AWS lamda",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cron",
+    "aws.",
+    "lamda",
+    "sample"
+  ],
+  "author": "Junip Dewan",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.653.0"
+  }
+}
