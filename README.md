@@ -1,6 +1,6 @@
 # nodejs-aws-lamda
 Learning on. AWS Lamda execution 
-
+Used serverless framework to get on the basic 
 
 ### Application to check the working of aws lamda 
 
